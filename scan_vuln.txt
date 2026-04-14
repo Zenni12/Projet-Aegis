@@ -1,0 +1,8 @@
+# Nmap 7.93 scan initiated Mon Apr 13 16:39:52 2026 as: nmap --script vuln -oN scan_vuln.txt 192.168.56.108
+Nmap scan report for 192.168.56.108
+Host is up (0.0000030s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT     STATE SERVICE
+2222/tcp open  EtherNetIP-1
+
+# Nmap done at Mon Apr 13 16:40:02 2026 -- 1 IP address (1 host up) scanned in 10.32 seconds
