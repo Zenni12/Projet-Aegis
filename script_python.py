@@ -1,9 +1,3 @@
-# Responsable Sécurité - 1ère année Bachelor
-
- 
-
- 
-
 # j'importe les modules dont j'ai besoin
 
 # subprocess ca permet de lancer des commandes linux depuis python
