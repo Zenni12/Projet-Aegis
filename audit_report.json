@@ -1,0 +1,6 @@
+{
+  "date": "2026-04-15 10:27:16.028038",
+  "ports": "Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess\nudp   UNCONN 0      0            0.0.0.0:5353       0.0.0.0:*          \nudp   UNCONN 0      0            0.0.0.0:38670      0.0.0.0:*          \nudp   UNCONN 0      0               [::]:5353          [::]:*          \nudp   UNCONN 0      0               [::]:45080         [::]:*          \ntcp   LISTEN 0      128          0.0.0.0:2222       0.0.0.0:*          \ntcp   LISTEN 0      128        127.0.0.1:631        0.0.0.0:*          \ntcp   LISTEN 0      128             [::]:2222          [::]:*          \ntcp   LISTEN 0      128            [::1]:631           [::]:*          ",
+  "fail2ban": "active",
+  "ssh_root": "PermitRootLogin no\n# the setting of \"PermitRootLogin prohibit-password\"."
+}
