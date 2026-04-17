@@ -1,4 +1,4 @@
-# 🛡️ Projet AEGIS — Audit & Sécurisation SI TechSud
+#  Projet AEGIS — Audit & Sécurisation SI TechSud
 
 ![Classification](https://img.shields.io/badge/classification-confidentiel_pédagogique-red)
 ![École](https://img.shields.io/badge/école-IPSSI-blue)
@@ -8,7 +8,7 @@ Audit et sécurisation d'un système d'information compromis — Mission de rép
 
 ---
 
-## 📌 Contexte
+##  Contexte
 
 Le vendredi 18 avril 2026, le serveur principal de TechSud a été victime d'une intrusion détectée via une saturation CPU anormale (98 %). Une connexion SSH active depuis un nœud de sortie Tor, un webshell PHP déposé via un formulaire non sécurisé et un processus masqué communiquant vers un serveur C2 ont été identifiés.
 
@@ -16,7 +16,7 @@ Ce projet vise à auditer l'infrastructure, identifier les vecteurs d'attaque et
 
 ---
 
-## 🎯 Objectifs de la semaine
+##  Objectifs de la semaine
 
 | Jour | Objectif |
 |------|----------|
@@ -28,7 +28,7 @@ Ce projet vise à auditer l'infrastructure, identifier les vecteurs d'attaque et
 
 ---
 
-## 🔍 Périmètre technique
+##  Périmètre technique
 
 Infrastructure composée de 6 équipements sur le réseau `192.168.1.0/24` :
 serveurs Debian/Ubuntu, pare-feu pfSense, NAS Synology.
